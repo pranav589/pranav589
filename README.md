@@ -5,7 +5,7 @@
 I'm Pranav from Nashik (India), and I am a fullstack web developer. I really enjoy doing different projects that would challenge my skills.
 
 
-Skills: REACT / REACT NATIVE / VANILLA JS / EXPRESS JS /HTML / CSS
+Skills: REACT / VANILLA JS / EXPRESS JS /HTML / CSS
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pranav589)](https://github.com/anuraghazra/github-readme-stats)
