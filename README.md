@@ -1,6 +1,6 @@
 
 ### Hi there 👋, my name is Pranav
-#### Fullstack developer
+#### Frontend developer
 
 I'm Pranav from Nashik (India), and I am a frontend web developer. I really enjoy doing different projects that would challenge my skills.
 
