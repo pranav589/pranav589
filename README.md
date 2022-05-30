@@ -2,7 +2,7 @@
 ### Hi there 👋, my name is Pranav
 #### Fullstack developer
 
-I'm Pranav from Nashik (India), and I am a fullstack web developer. I really enjoy doing different projects that would challenge my skills.
+I'm Pranav from Nashik (India), and I am a frontend web developer. I really enjoy doing different projects that would challenge my skills.
 
 
 Skills: REACT / VANILLA JS / EXPRESS JS /HTML / CSS
